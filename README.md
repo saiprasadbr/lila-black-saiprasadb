@@ -1,4 +1,5 @@
-# 🕹️ LILA BLACK: LiveOps & Level Design Dashboard
+# 🕹️ Player Journey Visualization Tool
+🟢 Live Dashboard: [https://lila-black-saiprasadb.streamlit.app/](https://lila-black-saiprasadb.streamlit.app/)
 
 A robust, web-based telemetry visualization tool built for the Level Design team at LILA Games. This dashboard translates raw Parquet telemetry data into an interactive, visual replay engine, allowing designers to track player paths, identify combat hotspots, and understand map flow.
 
