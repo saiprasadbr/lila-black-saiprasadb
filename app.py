@@ -112,7 +112,7 @@ def load_data(date_folder):
 
 # --- 3. USER INTERFACE ---
 st.set_page_config(layout="wide", page_title="LILA BLACK Level Design Tool")
-st.title("🕹️ LILA BLACK: LiveOps Dashboard")
+st.title("🕹️ Player Journey Visualization Tool")
 
 st.sidebar.header("🗺️ Global Filters")
 selected_map = st.sidebar.selectbox("Select Map", list(MAP_CONFIGS.keys()), key="select_map")
